@@ -3,7 +3,7 @@
   "projects": [
   {
     "name": "Exposure Calculator - Mobile Application",
-    "thumb": "exposurecalculator/thumb.png",
+    "thumb": "exposure-calculator/thumb.png",
     "desc": "Photographic Exposure Calculator as a Hybrid Mobile Application",
     "info": "http://blog.evanshortiss.com/ive-published-an-application-exposure-calculator-2/",
     "url": "https://play.google.com/store/apps/details?id=com.evanshortiss.exposurecalculator",
@@ -60,7 +60,7 @@
   },
   {
     "name": "buzzlike",
-    "thumb": "buzzlike/thumb.png", 
+    "thumb": "buzzlike/thumb.png",
     "desc": "Digital content interaction tool",
     "url": "http://buzzlike.pro",
     "info": "http://buzzlike.pro/#/about/project",
@@ -1478,7 +1478,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1653,8 +1653,8 @@
       "submitter": "nicmarti",
       "submissionDate": "2013-04-12",
       "tags": [
-        "Production", 
-        "Travel", 
+        "Production",
+        "Travel",
         "jQuery",
         "CSS3",
         "PlayFramework",
@@ -1751,18 +1751,18 @@
       ]
     },
     {
-      "name": "Node Tetrinet",  
-      "thumb": "nodetetrinet/thumb.png", 
-      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io", 
-      "url": "http://net.lo2k.net", 
-      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/", 
-      "src": "https://github.com/xblaster/NodeTetrinet", 
+      "name": "Node Tetrinet",
+      "thumb": "nodetetrinet/thumb.png",
+      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io",
+      "url": "http://net.lo2k.net",
+      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/",
+      "src": "https://github.com/xblaster/NodeTetrinet",
       "submitter": "X-Blaster",
       "submissionDate": "2013-04-24",
       "tags": [
-      "Demo", 
-      "Game", 
-      "CSS3D", "WebSocket", 
+      "Demo",
+      "Game",
+      "CSS3D", "WebSocket",
       "jQuery",
       "Open Source"
       ]
