@@ -2,6 +2,26 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "Exposure Calculator - Mobile Application",
+    "thumb": "exposurecalculator/thumb.png",
+    "desc": "Photographic Exposure Calculator as a Hybrid Mobile Application",
+    "info": "http://blog.evanshortiss.com/ive-published-an-application-exposure-calculator-2/",
+    "url": "https://play.google.com/store/apps/details?id=com.evanshortiss.exposurecalculator",
+    "submitter": "evanshortiss",
+    "submissionDate": "2014-05-13",
+    "tags": [
+      "exposure",
+      "calculator",
+      "photography",
+      "android",
+      "photo",
+      "ios",
+      "cordova",
+      "phonegap",
+      "mobile"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
